@@ -2,6 +2,8 @@
 const questions = [
     "Where did you experience unnecessary struggle?",
     "Did I give my best energy?",
+    "Did I always act with integrity and compassion?",
+    "In which tasks did I find flow?",
     "Am I moving in the right direction?",
     "What made me come alive?"
 ];
